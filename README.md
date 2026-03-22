@@ -1,4 +1,4 @@
-# PokeGoControle
+# PokeGoControl
 
 PokeGoControle is an Xposed module designed for location simulation, specifically tailored for Pokémon GO. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
 
