@@ -1,6 +1,6 @@
 # PokeGoControl
 
-PokeGoControle is an Xposed module designed for location simulation, specifically tailored for Pokémon GO. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
+PokeGoControl is an Xposed module designed for location simulation, specifically tailored for Pokémon GO. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
 
 ## Features
 
@@ -14,17 +14,16 @@ PokeGoControle is an Xposed module designed for location simulation, specificall
 ## Requirements
 
 - **Android:** 10+ (Min SDK 30)
-- **Root:** Required for Xposed Framework.
 - **Xposed Framework:** LSPosed is recommended.
 
 ## Installation
 
-1. Install the PokeGoControle APK.
+1. Install the PokeGoControl APK.
 2. Open your Xposed Manager (e.g., LSPosed).
-3. Enable the **PokeGoControle** module.
+3. Enable the **PokeGoControl** module.
 4. Ensure **Pokémon GO** is selected in the module's scope.
 5. Reboot your device (or force stop the target app if using LSPosed).
-6. Open PokeGoControle and grant the necessary permissions (Overlay, Location).
+6. Open PokeGoControl and grant the necessary permissions (Overlay, Location).
 
 ## Usage
 
@@ -39,4 +38,4 @@ This tool is for educational and development purposes only. Using third-party to
 
 ## License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License.
