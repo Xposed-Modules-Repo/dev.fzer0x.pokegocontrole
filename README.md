@@ -4,52 +4,6 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 
 ![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
 
-## Changelog
-### 2.2.0
-- **Stealth:** 
-    - Added some Stealth & Anti-Detection features
-- **Performance Optimization:** Optimized Xposed hook evaluation. Reduced overhead during app launches and improved preference loading speed.
-- **Skins:** Added new skins for the overlay joystick.
-- Bug Fixes
-
-### 2.1.1
-- Fix "Baidu" Mini Map transparency issue
-- Fix other "Baidu Maps" issues
-- improve update process
-
-⚠️First start with Baidu Maps need in the mini map up to 2 minutes, dont touch it, wait until you see the map
-
-### 2.1.0
-- **Baidu Maps Integration:** Added Baidu Maps as a secondary map provider for improved coverage in certain regions.
-- **Provider Selection:** Easily toggle between OSMroid and Baidu Maps in the app settings.
-
-### 2.0.3
-- FIX: Keyboard and Back button now work correctly in all apps while the overlay is running
-- Improved overlay focus management (only requests focus when text input is active)
-
-### 2.0.1
-- Add Xposed Reload custom interval between "10ms - 1000ms" in Settings
-- Add "Walking Algorithm" function to simulate small movements
-- Bug fixes
-
-### 2.0.0
-
-- Completely new app design
-- Selectable skins for overlay joystick
-- hides the overlay joystick in one click on move button under mini-map
-- added new settings in drawer
-- improve stability
-- bug fixes
-
-### 1.1.0
-
-- Fix stability Issues on some devices
-- improve anti detection (need activate "system" in LSPosed Scope - Samsung A16 device tested - may work on other devices) 
-
-### 1.0.6
-
-- Fix Update Issue
-
 ## Features
 
 - **Joystick Overlay:** Navigate in real-time with a customizable joystick.
