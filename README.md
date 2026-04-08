@@ -2,6 +2,22 @@
 
 Location Joystick is an Xposed module designed for location simulation. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
 
+⚠️ **[NEW] No Root/Xposed functionality (Mock Location)** ⚠️
+
+<div align="center">
+
+## 🚀 JOIN OUR COMMUNITY 🚀
+
+<a href="https://t.me/+LTsF8mOwkRE3YzYy">
+  <img src="https://img.shields.io/badge/👉_CLICK_HERE_TO_JOIN-FF0000?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+🔥 Join and get free Giveaways & Updates!
+
+</div>
+
+# Latest Release: https://github.com/fzer0x/LocationJoystick-Premium/releases
+
 ![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
 
 ## Features
@@ -21,6 +37,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 - **Android:** 10+ (Min SDK 30)
 - **Root:** Required for Xposed Framework.
 - **Xposed Framework:** LSPosed is recommended.
+- **[NEW] No Root/Xposed functionality (Mock Location)**
 
 ## Installation & LSPosed Scope
 
@@ -43,5 +60,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 ## Disclaimer
 
 This tool is for educational and development purposes only. Use at your own risk.
+
+## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
