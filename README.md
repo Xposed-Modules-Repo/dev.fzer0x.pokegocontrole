@@ -46,7 +46,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 3. Enable the **Location Joystick** module.
 4. **Important:** Configure the scope in LSPosed:
     - **Android-System** (Must be checked for GNSS & System-wide mocking).
-    - **Target App(s)** (e.g., Pokémon GO, Maps).
+    - **Target App(s)**
 5. Reboot your device (or force stop the target app and system-ui if using LSPosed).
 6. Open Location Joystick and grant the necessary permissions (Overlay, Location).
 
@@ -115,7 +115,7 @@ Location Joystick 是一个用于位置模拟的 Xposed 模块。它提供了一
 3. 启用 **Location Joystick** 模块。
 4. **重要：** 在 LSPosed 中配置作用域：
     - **Android-System**（必须勾选，用于 GNSS 和系统级模拟）。
-    - **目标应用**（例如 Pokémon GO、地图应用）。
+    - **目标应用**
 5. 重启设备（或者如果使用 LSPosed，则强制停止目标应用和 system-ui）。
 6. 打开 Location Joystick 并授予必要权限（悬浮窗、定位）。
 
